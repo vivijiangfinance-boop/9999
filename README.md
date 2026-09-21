@@ -11,7 +11,7 @@ int main()
         int b = 2;
         while (b <= a)
         {
-            cout << a << "*" << b << "=" << b * a << "  ";
+            cout << a << "x" << b << "=" << b * a << "  ";
             b++;
         }
         cout << endl;
